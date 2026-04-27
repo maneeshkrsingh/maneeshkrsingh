@@ -26,7 +26,7 @@ Computational researcher working at the interface of numerical PDEs, scientific 
 ![Stats](https://github-readme-stats.vercel.app/api?username=maneeshkrsingh&show_icons=true)
 
 ## 📁 Selected Work
-- phd-fdm-singularly-perturbed-systems  
+- fdm-singularly-perturbed-systems  
   Finite difference methods for singularly perturbed convection–diffusion and reaction–diffusion systems
 
 ## 🌐 Links
