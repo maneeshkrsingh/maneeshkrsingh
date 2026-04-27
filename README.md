@@ -4,8 +4,8 @@
 Computational researcher working at the interface of numerical PDEs, scientific machine learning, and data assimilation. I develop scalable algorithms for stochastic and multiscale systems, with applications in fluid dynamics and scientific computing.
 
 ## 🔬 Core Areas
+- Bayesian Data Assimilation & Stochastic Filtering
 - Numerical Methods for PDEs (FDM, FEM)
-- Data Assimilation & Particle Filtering
 - Scientific Machine Learning
 - Stochastic & Multiscale Modelling
 
