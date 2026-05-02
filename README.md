@@ -18,25 +18,30 @@ My work combines rigorous mathematical structure with computational implementati
 
 ## 🚀 Featured Projects
 
-
-
 ### 🔹 Particle Filtering for SPDEs
 
 * Ensemble-based filtering methods
 * Rank histogram diagnostics and statistical validation
 * Applications to nonlinear stochastic systems
 
+### 🔹 Compatible FEM for geophysical  fluid models
+
+* Lie-Poisson bracket discretizations
+* Energy conservative and stable numerical schemes
+* Variational formulations for fluid models
+
 ### 🔹 Stochastic Camassa–Holm Model
 
 * Structure-preserving discretization
-* Multi-layer and stochastic extensions
+* Multi-layer and various stochastic extensions
 * Implemented in Firedrake with energy diagnostics
 
-### 🔹 Compatible FEM for beophysical  fluid models
 
-* Upwind Lie bracket discretizations
-* Energy conservative and stable numerical schemes
-* Variational formulations for fluid models
+### 🔹 Eulerian CutFEM for Fluid structure interaction
+
+* IMEX FEM for heat and transport equations 
+* Stability and convergence analysis
+* Numerical validation using 2D and 3D heat models
 
 ---
 
