@@ -9,7 +9,7 @@ My work combines rigorous mathematical structure with computational implementati
 ## 🔬 Research Interests
 
 * Data Assimilation & Particle Filtering
-* Numerical Methods for PDEs (FEM, DG methods)
+* Numerical Methods for PDEs (FDM, FEM)
 * Geophysical  Fluid Models, Numerical weather prediction
 * Uncertainty Quantification in Dynamical Systems
 * score-based data assimilation using generative modeling
@@ -55,7 +55,7 @@ My research primarily focuses on **data assimilation and stochastic filtering** 
 * **Languages:** Python
 * **Libraries/Frameworks:** Firedrake, NumPy, SciPy
 * **Core Methods:** Data Assimilation, Stochastic Filtering, Bayesian Inference
-* **Numerical Techniques:** Finite Element Methods (FEM), Finite Difference Methods (FDM), Structure-Preserving Schemes
+* **Numerical Techniques:** Numerical Methods, Structure-Preserving Schemes
 * **Areas:** Scientific Computing, Computational PDEs, Uncertainty Quantification
 
 ---
