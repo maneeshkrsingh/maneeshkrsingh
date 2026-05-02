@@ -1,6 +1,6 @@
 # Hi, I'm Maneesh Kumar Singh
 
-I am a researcher in **Numerical Analysis, Partial Differential Equations (PDEs), and Stochastic Processes**, with a focus on **data assimilation and stochastic filtering for geophysical models**.
+I am a computational researcher specializing in **Bayesian scientific computing, probabilistic machine learning, and numerical analysis**, with particular emphasis on **data assimilation and stochastic filtering for geophysical models**. More recently, I have been investigating **score-based approaches to data assimilation via generative modeling**.
 
 My work combines rigorous mathematical structure with computational implementation, particularly using finite element methods and structure-preserving schemes.
 
@@ -8,21 +8,16 @@ My work combines rigorous mathematical structure with computational implementati
 
 ## 🔬 Research Interests
 
-* Stochastic Partial Differential Equations (SPDEs)
 * Data Assimilation & Particle Filtering
 * Numerical Methods for PDEs (FEM, DG methods)
-* Computational Fluid Models (Camassa–Holm type equations)
+* Geophysical  Fluid Models, Numerical weather prediction
 * Uncertainty Quantification in Dynamical Systems
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Stochastic Camassa–Holm Model
 
-* Structure-preserving discretization
-* Multi-layer and stochastic extensions
-* Implemented in Firedrake with energy diagnostics
 
 ### 🔹 Particle Filtering for SPDEs
 
@@ -30,10 +25,16 @@ My work combines rigorous mathematical structure with computational implementati
 * Rank histogram diagnostics and statistical validation
 * Applications to nonlinear stochastic systems
 
-### 🔹 Discontinuous Galerkin Methods for Nonlinear PDEs
+### 🔹 Stochastic Camassa–Holm Model
+
+* Structure-preserving discretization
+* Multi-layer and stochastic extensions
+* Implemented in Firedrake with energy diagnostics
+
+### 🔹 Compatible FEM for beophysical  fluid models
 
 * Upwind Lie bracket discretizations
-* Conservative and stable numerical schemes
+* Energy conservative and stable numerical schemes
 * Variational formulations for fluid models
 
 ---
