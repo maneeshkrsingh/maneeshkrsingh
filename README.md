@@ -51,8 +51,10 @@ My research primarily focuses on **data assimilation and stochastic filtering** 
 
 * **Languages:** Python
 * **Libraries/Frameworks:** Firedrake, NumPy, SciPy
-* **Methods:** Finite Element Methods (FEM), Discontinuous Galerkin (DG), Variational Methods
-* **Areas:** Scientific Computing, Computational PDEs
+* **Core Methods:** Data Assimilation, Stochastic Filtering, Bayesian Inference
+* **Numerical Techniques:** Finite Element Methods (FEM), Finite Difference Methods (FDM),  Structure-Preserving Schemes
+* **Areas:** Scientific Computing, Computational PDEs, Uncertainty Quantification
+
 
 ---
 
@@ -66,11 +68,12 @@ My research primarily focuses on **data assimilation and stochastic filtering** 
 
 I enjoy teaching foundational and advanced topics in mathematics, including:
 
-* Linear Algebra
-* Ordinary Differential Equations (ODEs)
-* Partial Differential Equations (PDEs)
+* Linear Algebra (Basic and Numerical)
 * Numerical Analysis
-* Basics of Stochastic Processes
+* Differential Equations (ODEs & PDEs)
+* Probability and queuing theory
+* Stochastic computation
+* Introduction to data assimilation
 
 ---
 
