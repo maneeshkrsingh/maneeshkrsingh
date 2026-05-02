@@ -64,6 +64,8 @@ My research primarily focuses on **data assimilation and stochastic filtering** 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=maneeshkrsingh&show_icons=true&theme=default)
 
+![Stats](https://github-readme-stats.vercel.app/api?username=maneeshkrsingh&show_icons=true&cache_seconds=86400)
+
 ---
 
 ## 🎓 Teaching
