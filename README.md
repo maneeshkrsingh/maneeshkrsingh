@@ -62,7 +62,7 @@ My research primarily focuses on **data assimilation and stochastic filtering** 
 
 ## 📊 GitHub Stats
 
-![Maneesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=maneeshkrsingh&show_icons=true&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=maneeshkrsingh&show_icons=true&theme=default)
 
 ---
 
