@@ -36,7 +36,6 @@ My work combines rigorous mathematical structure with computational implementati
 * Multi-layer and various stochastic extensions
 * Implemented in Firedrake with energy diagnostics
 
-
 ### 🔹 Eulerian CutFEM for Fluid structure interaction
 
 * IMEX FEM for heat and transport equations 
@@ -49,7 +48,6 @@ My work combines rigorous mathematical structure with computational implementati
 
 My research primarily focuses on **data assimilation and stochastic filtering** for complex dynamical systems, complemented by the development of **structure-preserving computational methods** that ensure physical and mathematical consistency.
 
-
 ---
 
 ## 🛠️ Tools & Technologies
@@ -57,15 +55,14 @@ My research primarily focuses on **data assimilation and stochastic filtering** 
 * **Languages:** Python
 * **Libraries/Frameworks:** Firedrake, NumPy, SciPy
 * **Core Methods:** Data Assimilation, Stochastic Filtering, Bayesian Inference
-* **Numerical Techniques:** Finite Element Methods (FEM), Finite Difference Methods (FDM),  Structure-Preserving Schemes
+* **Numerical Techniques:** Finite Element Methods (FEM), Finite Difference Methods (FDM), Structure-Preserving Schemes
 * **Areas:** Scientific Computing, Computational PDEs, Uncertainty Quantification
-
 
 ---
 
 ## 📊 GitHub Stats
 
-![Maneesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=maneeshkrsingh\&show_icons=true\&hide_border=true)
+![Maneesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=maneeshkrsingh&show_icons=true&hide_border=true)
 
 ---
 
@@ -94,22 +91,44 @@ I enjoy teaching foundational and advanced topics in mathematics, including:
 
 This GitHub serves as a **computational research lab notebook**, showcasing implementations of mathematical ideas in PDEs, stochastic systems, and data assimilation.
 
+---
+
 ## 📊 GitHub Stats
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=maneeshkrsingh&show_icons=true)
 
+---
+
 ## 📁 Selected Work
-- nudging
-  Nudged particle filter for data assimilation framework
 
-- pycutfem
-  Eulerian CutFEM for PDEs on moving domain
+- **[nudging](https://github.com/maneeshkrsingh/nudging)**  
+  Nudged particle filter for data assimilation framework  
+  → Improves state estimation in nonlinear stochastic systems through ensemble-based Bayesian filtering  
+  **Key idea:** Nudging-enhanced particle filtering  
+  **Method:** Sequential Monte Carlo, data assimilation  
+  **Forward models:** Provided via **[DA_SPDEs](https://github.com/maneeshkrsingh/DA_SPDEs)** 
 
-- Osfem-radiative-transfer
-  Operator splitting method  for 6D and 4D  Radiative Transfer Equation, computation using the ParMooN framework
+- **[pycutfem](https://github.com/maneeshkrsingh/pycutfem)**  
+  Eulerian CutFEM for PDEs on moving domain  
+  → Enables stable and accurate computation on evolving geometries without mesh deformation  
+  **Key idea:** Unfitted finite element discretization  
+  **Method:** CutFEM, Eulerian framework  
 
-- fdm-singularly-perturbed-systems
-  Robust compuatational  methods for singularly perturbed convection–diffusion and reaction–diffusion systems
+- **[Osfem-radiative-transfer](https://github.com/maneeshkrsingh/Osfem-radiative-transfer)**  
+  Operator splitting method for 6D and 4D Radiative Transfer Equation, computation using the ParMooN framework  
+  → Scalable high-dimensional solver for radiative transfer with efficient operator decomposition  
+  **Key idea:** Operator splitting for high-dimensional PDEs  
+  **Method:** Splitting schemes, ParMooN FEM  
+
+- **[fdm-singularly-perturbed-systems](https://github.com/maneeshkrsingh/fdm-singularly-perturbed-systems)**  
+  Robust compuatational methods for singularly perturbed convection–diffusion and reaction–diffusion systems  
+  → Captures sharp boundary layers with numerically stable and parameter-robust schemes  
+  **Key idea:** Parameter-robust discretization  
+  **Method:** Finite difference methods, layer-adapted meshes  
+
+---
 
 ## 🌐 Links
+
 - Website: https://maneeshkrsingh.github.io
 - GitHub: https://github.com/maneeshkrsingh
