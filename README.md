@@ -93,8 +93,14 @@ This GitHub serves as a **computational research lab notebook**, showcasing impl
 ![Stats](https://github-readme-stats.vercel.app/api?username=maneeshkrsingh&show_icons=true)
 
 ## 📁 Selected Work
+- nudging
+  Nudged particle filter for data assimilation framework
+- pycutfem
+  Eulerian CutFEM for PDEs on moving domain
+- Osfem-radiative-transfer Public
+  Operator splitting method  for 6D and 4D  Radiative Transfer Equation, computation using the ParMooN framework
 - fdm-singularly-perturbed-systems  
-  Finite difference methods for singularly perturbed convection–diffusion and reaction–diffusion systems
+  Robust compuatational  methods for singularly perturbed convection–diffusion and reaction–diffusion systems
 
 ## 🌐 Links
 - Website: https://maneeshkrsingh.github.io
