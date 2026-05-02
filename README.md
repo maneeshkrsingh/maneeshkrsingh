@@ -99,19 +99,15 @@ This GitHub serves as a **computational research lab notebook**, showcasing impl
 
 ## 📁 Selected Work
 - nudging
-  
   Nudged particle filter for data assimilation framework
 
 - pycutfem
-  
   Eulerian CutFEM for PDEs on moving domain
 
 - Osfem-radiative-transfer
-  
   Operator splitting method  for 6D and 4D  Radiative Transfer Equation, computation using the ParMooN framework
 
 - fdm-singularly-perturbed-systems
-  
   Robust compuatational  methods for singularly perturbed convection–diffusion and reaction–diffusion systems
 
 ## 🌐 Links
