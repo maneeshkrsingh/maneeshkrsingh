@@ -12,6 +12,7 @@ My work combines rigorous mathematical structure with computational implementati
 * Numerical Methods for PDEs (FEM, DG methods)
 * Geophysical  Fluid Models, Numerical weather prediction
 * Uncertainty Quantification in Dynamical Systems
+* score-based data assimilation using generative modeling
 
 ---
 
@@ -41,7 +42,8 @@ My work combines rigorous mathematical structure with computational implementati
 
 ## 🧠 Research Philosophy
 
-I am interested in building **numerical methods that respect the underlying mathematical structure** of physical and stochastic systems—especially conservation laws, variational principles, and geometric properties.
+My research primarily focuses on **data assimilation and stochastic filtering** for complex dynamical systems, complemented by the development of **structure-preserving computational methods** that ensure physical and mathematical consistency.
+
 
 ---
 
