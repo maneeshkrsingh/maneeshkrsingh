@@ -8,11 +8,12 @@ My work combines rigorous mathematical structure with computational implementati
 
 ## 🔬 Research Interests
 
-* Data Assimilation & Particle Filtering
-* Numerical Methods for PDEs (FDM, FEM)
-* Geophysical  Fluid Models, Numerical weather prediction
-* Uncertainty Quantification in Dynamical Systems
-* score-based data assimilation using generative modeling
+- Data Assimilation & Particle Filtering  
+- PINNs for Scientific Computing  
+- Numerical Methods for PDEs (FDM, FEM, DG Methods)  
+- Geophysical Fluid Models and Numerical Weather Prediction  
+- Uncertainty Quantification in Dynamical Systems  
+- Score-Based Data Assimilation and Generative Modeling  
 
 ---
 
@@ -23,6 +24,12 @@ My work combines rigorous mathematical structure with computational implementati
 * Ensemble-based filtering methods
 * Rank histogram diagnostics and statistical validation
 * Applications to nonlinear stochastic systems
+
+### 🔹 Consistent PINNs for Curved Domains
+
+- Development of consistent PINN cost functionals  
+- A priori and a posteriori error analysis  
+- Applications to PDEs on curved geometries and boundaries  
 
 ### 🔹 Compatible FEM for geophysical  fluid models
 
@@ -59,26 +66,8 @@ My research primarily focuses on **data assimilation and stochastic filtering** 
 * **Areas:** Scientific Computing, Computational PDEs, Uncertainty Quantification
 
 
----
 
-## 🎓 Teaching
 
-I enjoy teaching foundational and advanced topics in mathematics, including:
-
-* Linear Algebra (Basic and Numerical)
-* Numerical Analysis
-* Differential Equations (ODEs & PDEs)
-* Probability and queuing theory
-* Stochastic computation
-* Introduction to data assimilation
-
----
-
-## 📫 Contact
-
-* Email: (add your email here)
-* Google Scholar: (add when available)
-* LinkedIn: (optional)
 
 ---
 
