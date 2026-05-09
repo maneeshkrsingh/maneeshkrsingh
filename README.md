@@ -82,7 +82,6 @@ This GitHub serves as a **computational research lab notebook**, showcasing impl
 ![Stats](https://github-readme-stats.vercel.app/api?username=maneeshkrsingh&show_icons=true)
 
 ---
-
 ## 📁 Selected Work
 
 - **[nudging](https://github.com/maneeshkrsingh/nudging)**  
@@ -91,6 +90,12 @@ This GitHub serves as a **computational research lab notebook**, showcasing impl
   **Key idea:** Nudging-enhanced particle filtering  
   **Method:** Sequential Monte Carlo, data assimilation  
   **Forward models:** Provided via **[DA_SPDEs](https://github.com/maneeshkrsingh/DA_SPDEs)** 
+
+- **[consistent_cutpinn](https://github.com/maneeshkrsingh/consistent_cutpinn)**  
+  Consistent Physics-Informed Neural Networks (PINNs) for PDEs on implicitly defined cut domains  
+  → Develops geometrically consistent PINN formulations for curved and unfitted computational domains  
+  **Key idea:** Consistent PINN loss construction on cut geometries  
+  **Method:** PINNs, level-set geometry, unfitted domains, error analysis  
 
 - **[pycutfem](https://github.com/maneeshkrsingh/pycutfem)**  
   Eulerian CutFEM for PDEs on moving domain  
@@ -105,7 +110,7 @@ This GitHub serves as a **computational research lab notebook**, showcasing impl
   **Method:** Splitting schemes, ParMooN FEM  
 
 - **[fdm-singularly-perturbed-systems](https://github.com/maneeshkrsingh/fdm-singularly-perturbed-systems)**  
-  Robust compuatational methods for singularly perturbed convection–diffusion and reaction–diffusion systems  
+  Robust computational methods for singularly perturbed convection–diffusion and reaction–diffusion systems  
   → Captures sharp boundary layers with numerically stable and parameter-robust schemes  
   **Key idea:** Parameter-robust discretization  
   **Method:** Finite difference methods, layer-adapted meshes  
